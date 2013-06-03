@@ -32,6 +32,20 @@ html, body {
   margin: -20px -20px 20px;
 }
 
+h1.title {
+  font-size: 20px;
+}
+
+.post p, .about p {
+  font-size:14px;
+  line-height: 1.8;
+}
+
+.post li {
+  font-size:14px;
+  line-height: 1.5;
+}
+
 .topbar .btn {
   border: 0;
 }
